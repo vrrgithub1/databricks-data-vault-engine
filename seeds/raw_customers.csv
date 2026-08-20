@@ -1,0 +1,4 @@
+customer_id,first_name,last_name,email,created_at
+C101,John,Doe,john.doe@example.com,2026-08-01 10:00:00
+C102,Jane,Smith,jane.smith@example.com,2026-08-01 10:15:00
+C103,Robert,Johnson,robert.j@example.com,2026-08-02 11:30:00
